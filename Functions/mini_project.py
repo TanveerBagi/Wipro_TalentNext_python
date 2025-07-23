@@ -1,4 +1,4 @@
-import mymodule   #for miniproject 2
+import string_utils   #for miniproject 2
 
 #1.Write a Python function that accepts a hyphen-separated sequence of colors as input and returns the colors in a hyphen-separated sequence after sorting them alphabetically.
 def sort_colors(input_string):
