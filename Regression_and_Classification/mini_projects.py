@@ -75,7 +75,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-df = pd.read_csv("diabetes.csv")
+df = pd.read_csv("pima-indians-diabetes.csv")
 
 print(df.head())
 print(df.info())
